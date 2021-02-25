@@ -62,6 +62,7 @@ sysinfo.txt
 
 # tar 7z
 *.tar.7z
+*.7z
 
 # Crashlytics generated file
 crashlytics-build.properties

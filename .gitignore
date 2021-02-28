@@ -61,7 +61,7 @@ sysinfo.txt
 *.unitypackage
 
 # tar 7z
-*.tar.7z
+*.tar
 *.7z
 
 # Crashlytics generated file
